@@ -8,4 +8,4 @@ doubleFatorial n
 main = do 
   print(doubleFatorial 8)
 
->>>384
+>>> 384
