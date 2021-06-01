@@ -1,5 +1,5 @@
-# TC_Haskell
-Atividades de linguagem haskell ministrada na disciplina de teoria da computação
+# Atividades de linguagem haskell ministrada na disciplina de teoria da computação
+
 
 Responda as questões a seguir utilizando a linguagem Haskell. Vocês podem utilizar o compilador disponível em https://replit.com/languages/haskell.
 
